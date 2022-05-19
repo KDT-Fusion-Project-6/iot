@@ -3,7 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/wjdtj/AndroidStudioProjects/iot/app/src/main/res/layout-watch/view.xml" value="0.17708333333333334" />
         <entry key="..\:/Users/wjdtj/AndroidStudioProjects/iot/app/src/main/res/layout/activity_main.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/wjdtj/AndroidStudioProjects/iot/app/src/main/res/layout/item_slider.xml" value="0.1331521739130435" />
+        <entry key="..\:/Users/wjdtj/AndroidStudioProjects/iot/app/src/main/res/layout/main.xml" value="0.33" />
+        <entry key="..\:/Users/wjdtj/AndroidStudioProjects/iot/app/src/main/res/layout/main_View.xml" value="0.18" />
+        <entry key="..\:/Users/wjdtj/AndroidStudioProjects/iot/app/src/main/res/layout/main_view.xml" value="0.1331521739130435" />
+        <entry key="..\:/Users/wjdtj/AndroidStudioProjects/iot/app/src/main/res/layout/page.xml" value="0.2722222222222222" />
+        <entry key="..\:/Users/wjdtj/AndroidStudioProjects/iot/app/src/main/res/layout/picture.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/wjdtj/AndroidStudioProjects/iot/app/src/main/res/layout/style.xml" value="0.33" />
+        <entry key="..\:/Users/wjdtj/AndroidStudioProjects/iot/app/src/main/res/layout/view.xml" value="0.33" />
         <entry key="..\:/Workspace/09. android/KDT-Fusion-Project/app/src/main/res/layout/activity_main.xml" value="0.3038949275362319" />
         <entry key="..\:/Workspace/09. android/Tody/app/src/main/res/layout/activity_main.xml" value="0.1875" />
       </map>
